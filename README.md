@@ -1,61 +1,45 @@
-# 🌍 Wanderlust Adventures - Travel Agency Page
+🌍 **Wanderlust Adventures - Travel Agency Page**
 
 📝 **Description**  
-Wanderlust Adventures est une page simple et élégante mettant en valeur une agence de voyages fictive. Ce projet démontre les bases de la structure HTML5 et l'utilisation d'éléments sémantiques pour présenter efficacement du contenu promotionnel. Idéal pour les débutants en développement web souhaitant pratiquer la création de pages statiques attrayantes et bien organisées.
 
----
+**Wanderlust Adventures** is a simple and elegant page showcasing a fictional travel agency. This project demonstrates the basics of HTML5 structure and the use of semantic elements to effectively present promotional content. It's ideal for beginners in web development who want to practice building attractive and well-organized static pages.
 
-## 🛠️ Technologies Utilisées
+🛠️ **Technologies Used**  
 
-- **HTML5** : Structure du document, balises sémantiques, intégration d’images et de liens
+**HTML5**: Document structure, semantic tags, image and link integration
 
----
+📂 **Project Structure**  
+`/wanderlust-agency`  
+│── `index.html`  
+│── `README.md`
 
-## 📂 Structure du Projet
+📜 **Files**  
 
-```
-/wanderlust-agency
-│── index.html
-│── README.md
-```
+1️⃣ `index.html`: Contains the full structure of the travel agency page with a title, description, itineraries, and images  
+2️⃣ *(Optional)* `img/`: A folder to store local images if you don’t rely solely on online images
 
----
+🚀 **Features**  
 
-## 📜 Fichiers
+📑 Clear and descriptive title  
+📝 Appealing presentation of travel offers (Group Travels, Private Tours)  
+🖼️ Image integration showcasing the destinations  
+🔗 Links to external resources (e.g., FreeCodeCamp)  
+🔍 Semantic HTML structure with `figure`, `figcaption`, `ul`, `p`, `h1-h2`, etc.
 
-1️⃣ `index.html` : Contient la structure complète de la page de l'agence de voyage avec titre, description, itinéraires et images  
-2️⃣ (Facultatif) `img/` : Un dossier pour stocker des images locales si tu ne relies pas uniquement des images en ligne
+🔧 **Possible Improvements**  
 
----
+- Add CSS for a more professional visual design  
+- Integrate a booking or contact form  
+- Add an interactive map with destinations  
+- Include traveler reviews  
+- Make the page responsive (mobile-friendly)  
+- Add a footer (`<footer>`)
 
-## 🚀 Fonctionnalités
-
-- 📑 Titre clair et descriptif
-- 📝 Présentation attrayante des voyages offerts (Group Travels, Private Tours)
-- 🖼️ Intégration d’images illustrant les destinations
-- 🔗 Liens vers des ressources externes (FreeCodeCamp)
-- 🔍 Structure HTML sémantique avec `figure`, `figcaption`, `ul`, `p`, `h1-h2`, etc.
-
----
-
-## 🔧 Améliorations Possibles
-
-- Ajouter du CSS pour un rendu visuel plus professionnel
-- Intégrer un formulaire de réservation ou de contact
-- Ajouter une carte interactive avec les destinations
-- Inclure les avis des voyageurs
-- Rendre la page responsive (adaptée aux mobiles)
-- Ajouter un pied de page (`<footer>`)
-
----
-
-## 🧑‍💻 Auteur
+🧑‍💻 **Author**  
 
 **Gabriel Ralph Christian**  
-Développeur web passionné par la création de sites accessibles, sémantiques et bien structurés.
+A passionate web developer focused on building accessible, semantic, and well-structured websites.
 
----
+📜 **License**  
 
-## 📜 Licence
-
-Ce projet est open source et disponible sous la licence [MIT](https://opensource.org/licenses/MIT).
+This project is open source and available under the MIT License.
